@@ -1,0 +1,8 @@
+{
+    "identifier": "com.suzie97.Vala",
+    "name": "Vala Language Server",
+    "organization": "Rajdeep Singha",
+    "description": "Vala Language Server support for Nova.",
+    "version": "0.0.1",
+    "categories": ["languages", "completions"]
+}
