@@ -13,7 +13,6 @@ Let's get started!
 -->
 
 **Valanova** provides deep integration with the **Vala** language.
-
 <!--
 🎈 It can also be helpful to include a screenshot or GIF showing your extension in action:
 -->
