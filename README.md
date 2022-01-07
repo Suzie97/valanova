@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Suzie97/valanova/blob/main/Images/Valanova%20Icon.png?raw=true" alt="Icon" img height='128' img width = '128'/>
+</p>
+<h1 align="center">Valanova</h1>
+
 <!--
 👋 Hello! As Nova users browse the extensions library, a good README can help them understand what your extension does, how it works, and what setup or configuration it may require.
 
