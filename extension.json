@@ -1,10 +1,11 @@
 {
     "identifier": "com.suzie97.Vala",
-    "name": "Vala Language Server",
+    "name": "Valanova",
     "organization": "Rajdeep Singha",
     "description": "Vala syntax highlighting for Nova.",
-    "version": "0.1",
+    "version": "1.0",
     "categories": ["languages"],
+    "license": ["MIT"],
     "bugs": "https://github.com/Suzie97/valanova/issues",
     "repository": "https://github.com/Suzie97/valanova"
 }
