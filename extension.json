@@ -2,7 +2,9 @@
     "identifier": "com.suzie97.Vala",
     "name": "Vala Language Server",
     "organization": "Rajdeep Singha",
-    "description": "Vala Language Server support for Nova.",
-    "version": "0.0.1",
-    "categories": ["languages", "completions"]
+    "description": "Vala syntax highlighting for Nova.",
+    "version": "0.1",
+    "categories": ["languages"],
+    "bugs": "https://github.com/Suzie97/valanova/issues",
+    "repository": "https://github.com/Suzie97/valanova"
 }
