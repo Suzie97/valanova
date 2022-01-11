@@ -14,5 +14,3 @@
 -->
 
 Valanova runs any time you open a local Vala project/file and provides syntax highlighting.
-
-![GIF](https://github.com/Suzie97/valanova/blob/main/Images/Valanova-Usage-GIF.gif)
