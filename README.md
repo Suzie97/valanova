@@ -19,7 +19,7 @@ Let's get started!
 
 **Valanova** provides syntax highlighting for the **Vala** language in Nova.
 
-![Screenshot](https://github.com/Suzie97/valanova/blob/main/Images/Dark%20Screenshot.png?raw=true)
+![Screenshot](https://github.com/Suzie97/valanova/blob/main/Images/Screenshot.png?raw=true)
 <!--
 🎈 It can also be helpful to include a screenshot or GIF showing your extension in action:
 -->
