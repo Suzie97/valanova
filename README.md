@@ -17,7 +17,7 @@ Let's get started!
 🎈 Include a brief description of the features your extension provides. For example:
 -->
 
-**Valanova** provides deep integration with the **Vala** language.
+**Valanova** provides syntax highlighting for the **Vala** language in Nova.
 
 ![Screenshot](https://github.com/Suzie97/valanova/blob/main/Images/Dark%20Screenshot.png?raw=true)
 <!--
@@ -44,8 +44,6 @@ Let's get started!
 -->
 
 Valanova runs any time you open a local vala project/file and provides syntax highlighting.
-
-
 
 <!--
 👋 That's it! Happy developing!
